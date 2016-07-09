@@ -29,6 +29,15 @@ $ npm -v
    brew install node
 ```
 
+# **Instalando Dependências**
+Apos instalação do Node.js  no prompt de comando (Terminal) acesse o caminho onde iniciará um novo projeto e execute o comando 
+
+    npm init
+    
+   Para gera o arquivo [package.json](https://github.com/VagnerSilva/angular2/blob/master/package.json)
+
+
+ 
 
 
  
