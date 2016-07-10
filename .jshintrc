@@ -1,0 +1,25 @@
+{
+    "boss": true,
+    "eqeqeq": false,
+    "strict": false,
+    "newcap": false,
+    "undef": true,
+    "unused": true,
+    "onecase": true,
+    "lastsemic": true,
+    "browser": true,
+    "freeze": true,
+    "jquery": true,
+    "node": true,
+    "esversion": 6,
+    "kendo-ui": true,
+    "globals": {
+        "jasmine": true,
+        "angular": true,
+        "browser": true,
+        "element": true,
+        "moment": true,
+        "kendo-ui": true,
+        "window": true
+    }
+}
