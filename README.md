@@ -31,7 +31,7 @@ $ npm -v
 
 **Configuração**
 
-Apos instalação  no prompt de comando (Terminal) acesse o caminho onde você irá criar seu novo projeto e execute o comando 
+Apos instalação no prompt de comando (Terminal) acesse o caminho onde você irá criar seu novo projeto e execute o comando 
 
     npm init
     
@@ -40,6 +40,7 @@ Apos instalação  no prompt de comando (Terminal) acesse o caminho onde você i
    Assim como, adicione na raiz do seu projeto, os arquivos de configuração typescript.
 
 [tsconfig.json](https://github.com/VagnerSilva/angular2/blob/master/tsconfig.json)
+
 [typings.json](https://github.com/VagnerSilva/angular2/blob/master/typings.json)
 
 
@@ -49,7 +50,7 @@ Depois de adicionarmos os arquivos de configuração, instalaremos  as seguintes
 
     npm install --global bower gulp-cli typescript typings
 
-E posteriormente, no diretoio  as dependências de desenvolvimento.
+E posteriormente, as dependências de desenvolvimento.
 
     npm install --save-dev gulp gulp-typescript gulp-sourcemaps browser-sync superstatic
 
