@@ -45,4 +45,4 @@ Apos instalação das dependências  no prompt de comando (Terminal) acesse o ca
 
     npm init
     
-   Para gera o arquivo o arquivo de configuração do npm [package.json](https://github.com/VagnerSilva/angular2/blob/master/package.json)
+   Para gera o arquivo de configuração do npm package.json ou copie o arquivo [package.json](https://github.com/VagnerSilva/angular2/blob/master/package.json) contiduo nesse projeto.
