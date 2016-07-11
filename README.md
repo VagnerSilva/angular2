@@ -31,13 +31,7 @@ $ npm -v
 
 **Configuração**
 
-Apos instalação no prompt de comando (Terminal) acesse o caminho onde você irá criar seu novo projeto e execute o comando 
-
-    npm init
-    
-   Para gera o arquivo de configuração do npm package.json ou copie o arquivo [package.json](https://github.com/VagnerSilva/angular2/blob/master/package.json) contiduo nesse projeto.
-   
-   Assim como, adicione na raiz do seu projeto, os arquivos de configuração typescript.
+Adicione na raiz do seu projeto, os arquivos de configuração.
 
 [package.json](https://github.com/VagnerSilva/angular2/blob/master/package.json)
 
@@ -57,6 +51,7 @@ E posteriormente, as dependências de desenvolvimento.
     npm install --save-dev gulp gulp-typescript gulp-sourcemaps browser-sync superstatic
 
 Por fim execute o comando
+
     npm install
 
 
