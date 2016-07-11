@@ -33,11 +33,11 @@ $ npm -v
 
 Adicione na raiz do seu projeto, os arquivos de configuração.
 
-[package.json](https://github.com/VagnerSilva/angular2/blob/master/package.json)
-
-[tsconfig.json](https://github.com/VagnerSilva/angular2/blob/master/tsconfig.json)
-
-[typings.json](https://github.com/VagnerSilva/angular2/blob/master/typings.json)
++ [package.json](https://github.com/VagnerSilva/angular2/blob/master/package.json)
++ [tsconfig.json](https://github.com/VagnerSilva/angular2/blob/master/gulp/conf/tsconfig.json) (copiar parar gulp/conf)
++ [typings.json](https://github.com/VagnerSilva/angular2/blob/master/typings.json)
++ [tslint.json](https://github.com/VagnerSilva/angular2/blob/master/tslint.json)
++ [.jshintrc](https://github.com/VagnerSilva/angular2/blob/master/.jshintrc)
 
 
  **Instalando Dependências**
